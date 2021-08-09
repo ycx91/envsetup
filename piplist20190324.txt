@@ -109,7 +109,7 @@ pypiwin32==223
 PyQt5==5.9.2
 python-dateutil==2.7.3
 pytz==2018.4
-pywin32==223
+pywin32==301
 pywin32-ctypes==0.1.2
 pywinpty==0.5.4
 PyYAML==3.13
