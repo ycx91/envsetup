@@ -104,7 +104,7 @@ PyInstaller==3.4
 pylint==2.3.1
 pyOpenSSL==19.0.0
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pypiwin32==223
 PyQt5==5.9.2
 PyQt5-sip==4.19.15
